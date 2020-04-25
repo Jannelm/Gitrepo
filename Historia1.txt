@@ -10,10 +10,4 @@ Holis
 
 Holis
 
-<<<<<<< HEAD
 Holaaaaaaaaaaaaa
-=======
-Holaaaaaaaaaaaaa
-
-no se que hace si esto sale mal
->>>>>>> cabecera
