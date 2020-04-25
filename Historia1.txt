@@ -11,3 +11,8 @@ Holis
 Holis
 
 Holaaaaaaaaaaaaa
+<<<<<<< HEAD
+=======
+
+Noseeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+>>>>>>> cabecera
